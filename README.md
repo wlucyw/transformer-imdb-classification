@@ -158,7 +158,7 @@ python src/train.py
 
 ---
 
-## 💬 Interview Highlights
+## 💬 Highlights
 
 * Designed a controlled experiment comparing RNN, LSTM, and Transformer
 * Built full NLP pipeline from raw text to model evaluation
